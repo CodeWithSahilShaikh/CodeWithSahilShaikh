@@ -37,7 +37,7 @@
 
 ### 🌍 Connect With Me  
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.sahilshaikh@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hello.sahilshaikh@gmail.com)
 
 <p align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=react&logoColor=white"/></a>
@@ -46,6 +46,7 @@
   <a href="https://x.com/SahilShaikhhere" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.instagram.com/sahilshaikh.ai/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
 
 ---
 

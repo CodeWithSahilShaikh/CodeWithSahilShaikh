@@ -38,7 +38,7 @@
 ### 🌍 Connect With Me  
 
 <p align="center">
-  <a href="https:mailto:hello.sahilshaikh@gmail.com">
+  <a href="mailto:hello.sahilshaikh@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
 </p>

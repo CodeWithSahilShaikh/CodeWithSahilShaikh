@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hey+%F0%9F%91%8B%2C+I'm+Sahil+Shaikh!;Full-Stack+Developer+%7C+Tech+%26+AI+Enthusiast;Code.+Create.+Automate." alt="Typing SVG" />
-</h1> 
+</h1>
 
 ---
 
@@ -37,11 +37,7 @@
 
 ### 🌍 Connect With Me  
 
-<p align="center">
-  <a href="mailto:hello.sahilshaikh@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-  </a>
-</p>
+[![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.sahilshaikh@gmail.com)
 
 <p align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=react&logoColor=white"/></a>

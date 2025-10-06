@@ -37,7 +37,11 @@
 
 ### 🌍 Connect With Me  
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hello.sahilshaikh@gmail.com)
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hello.sahilshaikh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+</p>
 
 <p align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=react&logoColor=white"/></a>

@@ -1,29 +1,24 @@
-<!-- Animated Gradient Header -->
+<!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=550&lines=Hey+👋%2C+I'm+Sahil+Shaikh!;Full-Stack+Developer+%7C+AI+Enthusiast;Code+✨+Create+⚡+Automate" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="800" alt="Snake animation" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hey+%F0%9F%91%8B%2C+I'm+Sahil+Shaikh!;Full-Stack+Developer+%7C+Tech+%26+AI+Enthusiast;Code.+Create.+Automate." alt="Typing SVG" />
+</h1> 
 
 ---
 
 ### 👨‍💻 About Me  
-
-💡 I’m a **Full-Stack Developer** passionate about building **modern, scalable, and impactful** web apps.  
-🤖 Exploring the intersection of **Technology × AI** to craft smarter digital experiences.  
-🚀 Currently diving into **Next.js**, **TypeScript**, and **AI Integrations**.  
-🎯 My goal: To empower people through meaningful, tech-driven digital products.  
+💡 I’m a **Full-Stack Developer** passionate about creating modern, scalable, and impactful web applications.  
+⚙️ I love blending **Technology + AI** to build smart digital solutions.  
+🔥 Currently exploring **Next.js**, **TypeScript**, and **AI Integrations**.  
+🚀 Mission: To empower people through tech-driven digital products.  
 
 ---
 
-### ⚙️ Tech Arsenal  
+### 🛠️ Tech Stack  
 
-#### 🎨 Frontend  
+#### 💻 Frontend  
 `HTML` • `CSS` • `JavaScript` • `React` • `Next.js` • `Tailwind CSS`  
 
-#### 🧠 Backend  
+#### ⚙️ Backend  
 `Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `JWT` • `REST APIs`  
 
 #### 🧰 Tools & Platforms  
@@ -34,25 +29,19 @@
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilShaikh&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SahilShaikh&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilShaikh&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilShaikh&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilShaikh&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🏆 Achievements  
+### 🌍 Connect With Me  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SahilShaikh&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <a href="mailto:hello.sahilshaikh@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
 </p>
-
----
-
-### 🌐 Connect With Me  
 
 <p align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=react&logoColor=white"/></a>
@@ -65,17 +54,21 @@
 ---
 
 ### 🧠 Fun Fact  
-> I believe in **“Learning in public”** — because sharing knowledge makes the tech world smarter 🌎  
+I debug for fun — because every bug has a story to tell! 🐞  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SahilShaikh&label=Profile+Views&color=00FFFF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SahilShaikh&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SahilShaikh&label=Profile+Views&color=1DA1F2&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
-  <b>💻 Code • ✨ Create • ⚡ Automate</b><br/>
+  <b>💻 Code • ✨ Create • ⚡ Automate</b> </br>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </p>
-
----
